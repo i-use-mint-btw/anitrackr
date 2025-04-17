@@ -1,0 +1,2 @@
+# anitrackr
+Client for anilist
